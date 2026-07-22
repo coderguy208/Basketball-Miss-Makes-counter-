@@ -40,8 +40,8 @@ button {
     background: rgb(230, 106, 4);
 }
 #div{
-    max width: 20ch;
+    max-width: 20ch;
 }
 #save-el{
-    color: white
+    color: white;
 }
